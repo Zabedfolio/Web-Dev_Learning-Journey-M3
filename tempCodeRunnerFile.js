@@ -1,1 +1,1 @@
-console.log(str);
+0
