@@ -1,1 +1,1 @@
-word
+console.log(str);
